@@ -7,11 +7,9 @@ layout: default
     <h1 class="post-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
     <p class="post-date">{{ page.date|date:"%Y-%m-%d" }}</p>
     {{ content }}
-    <!-- {% include disqus.html %} -->
-    <!-- {% include gitment.html %} -->
   </div>
   <div id="gitmentContainer"></div>
-  <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+  <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></link>
   <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
   <script>
   var gitment = new Gitment({
@@ -24,9 +22,6 @@ layout: default
   });
   gitment.render('gitmentContainer');
   </script>
-
-  
-
   <script src="/js/jquery-1.7.1.min.js" type="text/javascript"></script>
   <script src="/js/post.js" type="text/javascript"></script>
 </body>
