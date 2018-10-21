@@ -33,7 +33,7 @@ body .hide{display:none;}
 
 
 /***********default settings**********/
-body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;color: #00BC1D;background-image:"https://github.com/erdongxie/erdongxie.github.io/blob/master/images/morningsky.png?raw=true"}
+body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;color: #00BC1D;background-image:url(https://github.com/erdongxie/erdongxie.github.io/blob/master/images/morningsky.png?raw=true);background-size:cover}
 a {color:#4A75B5;text-decoration:none;outline:none;}
 a:hover {text-decoration:underline}
 a.external {padding-right:13px;background:url('/images/icons.gif') no-repeat right 1px;}
