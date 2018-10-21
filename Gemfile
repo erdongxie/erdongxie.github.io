@@ -1,5 +1,2 @@
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-paginate"
-  gem "jemoji"
-end
+source 'https://ruby.taobao.org'
+gem 'github-pages'
