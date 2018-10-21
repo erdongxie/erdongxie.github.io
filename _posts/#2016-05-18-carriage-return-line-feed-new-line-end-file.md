@@ -7,6 +7,7 @@ category: blog
 
 ## 回车和换行
 
+
 回车 (Carriage Return) 和换行 (Line Feed) 的区别，[这里](http://stackoverflow.com/questions/1761051/difference-between-n-and-r)有一个历史原因可参考：
 
 > 在计算机还没有出现之前，有一种叫做电传打字机（Teletype Model 33）的玩意，每秒钟可以打10个字符。但是它有一个问题，就是打完一行换行的时候，要用去0.2秒，

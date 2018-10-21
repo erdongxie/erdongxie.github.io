@@ -8,4 +8,15 @@ category: blog
 ## 今天我39周啦
 
 
-正文在这里
+### 妈妈
+
+![motherstomach](/images/motherstomach.jpg)
+
+### 爸爸和妈妈
+
+![motherandfather](/images/motherandfather.jpg)
+
+### 我到底是怎么来的呢？
+
+![whereamifrom](/images/whereamifrom.jpg)
+
