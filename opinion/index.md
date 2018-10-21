@@ -5,9 +5,9 @@ layout: home
 <div class="index-content opinion">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>萌娃是我</span></a></li>
-            <li class="on" style="text-align:center"><a href="/opinion"><span>我要长大</span></a></li>
-            <li style="text-align:right"><a href="/project"><span>看我七十二变</span></a></li>
+            <li><a href="/"><span>Initializing...</span></a></li>
+            <li class="on" style="text-align:center"><a href="/opinion"><span>Growinng up...</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>Strong Smart Special</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
