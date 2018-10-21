@@ -13,4 +13,18 @@
   </head>
 
   {{ content }}
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'erdongxie',
+    repo: 'erdongxie.github.io',
+    oauth: {
+        client_id: '5ae8170c51d66f1e678e',
+        client_secret: '30cff8d59d4926896c50efd33a905a42547e9497',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
 </html>
