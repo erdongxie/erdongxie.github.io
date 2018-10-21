@@ -4,7 +4,7 @@
  */
 
 /* 重置浏览器CSS */
-html{color:#000;background-image:"https://github.com/erdongxie/erdongxie.github.io/blob/master/images/morningsky.png?raw=true"}
+html{color:#000}
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0;}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
 body,button,input,select,textarea{font-size:12px/1.5;}
@@ -136,8 +136,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex li.h3{padding-left:25px;}
 
 .home-menu { position:fixed; top:15px; left:15px; z-index:5; font-size:0; color:#ffffff; }
-.home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:#000; }
-.home-follow { margin-left:2px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px; background:#000;  }
+.home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:grey; }
+.home-follow { margin-left:2px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px; background:grey;  }
 .home-menu-icon:hover,
 .home-follow:hover { color:#fff; text-decoration:none; }
 .home-contact { color:#fff; margin-top:2px; background:#000; padding:8px 0 7px; text-align:center; display:none;}
